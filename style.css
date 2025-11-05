@@ -291,3 +291,18 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+.my-footer {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff; /* İç yazı beyaz */
+    text-shadow:
+        0 0 5px #ff00de,
+        0 0 10px #ff00de,
+        0 0 20px #ff00de,
+        0 0 40px #ff00de; /* Dışı neon pembe */
+    background: transparent;
+    margin-top: 30px;
+}
