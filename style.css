@@ -34,7 +34,7 @@ body {
     background-image: url("arkaplan.jpg"); /* >>> senin fotoğrafın */
     background-size: cover;
     background-position: center;
-    filter: blur(8px);      /* Blurluluk miktarı */
+    filter: blur(4px);      /* Blurluluk miktarı */
     z-index: -1;            /* Arkada kalması için */
 }
 h1 {
